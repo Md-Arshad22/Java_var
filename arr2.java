@@ -8,7 +8,7 @@ public class arr2 {
         list.add(3);
         list.add("four");
         list.add(5);
-        
+
         for (Object element : list) {
            System.out.println(element);
         }
