@@ -19,6 +19,5 @@ public class arr3 {
     for (Integer students:list1){
         System.out.println(students);
     }
-
 }
 }
