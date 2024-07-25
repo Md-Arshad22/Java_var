@@ -20,7 +20,6 @@
 //file write ///
 
 // import java.io.FileWriter;
-
 // public class filehandling{
 //     public static void main(String[] args) throws IOException{
 //         FileWriter myfile=new FileWriter("C:\\Users\\ADIT-PC-03\\Desktop\\Fileshandling\\file1.txt");
