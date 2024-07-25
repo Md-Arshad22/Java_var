@@ -7,7 +7,7 @@ public class arr3 {
         list.add("Zaheer");
         list.add("Arshad");
         list.add("Ahmed");
-
+    
         ArrayList<Integer> list1=new ArrayList<>();
         list1.add(10);
         list1.add(20);
