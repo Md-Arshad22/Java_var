@@ -42,8 +42,7 @@
 //             System.out.print((char)i);
 //         }
 //         myfile.close();
-//         System.out.println("File read successfully");
-       
+//         System.out.println("File read successfully");   
 //     }
 // }
 
