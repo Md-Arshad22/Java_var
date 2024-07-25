@@ -18,7 +18,8 @@ public class arr3 {
     {
         System.out.println(students);
     }
-    for (Integer students:list1){
+    for (Integer students:list1)
+    {
         System.out.println(students);
     }
             
