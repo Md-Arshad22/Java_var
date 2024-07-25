@@ -4,7 +4,6 @@ public class arr1 {
   
   public static void main(String[] args) {
     // Sample data (replace with your actual data)
-    
     List<String> names = List.of("Apple", "Banana", "Cherry","orange");
     int[] quantities = {10, 20, 30,40};
 
