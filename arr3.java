@@ -12,6 +12,7 @@ public class arr3 {
         list1.add(10);
         list1.add(20);
         list1.add(30);
+        
     // System.out.println("students are: " + list.get(1));
     for (String students:list)
     {
