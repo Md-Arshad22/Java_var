@@ -6,7 +6,7 @@ public class hasmap1 {
         map.put("Md", "Arshad");
         map.put("Md", "Zaheer");
         map.put("Zaheer", "Arshad");
-
+    
         System.out.println("name : " + map);
         for (String key : map.keySet()) {
             System.out.println(key + " " + map.get(key));
