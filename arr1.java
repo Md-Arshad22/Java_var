@@ -10,6 +10,6 @@ public class arr1 {
     System.out.println("-------\t-------");
     for (int i = 0; i < names.size(); i++) {
       System.out.printf("%-10s\t%d\n", names.get(i), quantities[i]);
-    }
+
   }
 }
