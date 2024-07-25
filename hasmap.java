@@ -12,6 +12,4 @@ public class hasmap {
             System.out.println(key + " " + map.get(key));
         }   
     }
-}
-    
-        
+}   
