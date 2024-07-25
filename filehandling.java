@@ -3,7 +3,7 @@
 // import java.io.File;
 // import java.io.IOException;
 // public class filehandling{
-
+       
 //     public static void main(String[] args) throws IOException{
 
 //         File myfile=new File("C:\\Users\\ADIT-PC-03\\Desktop\\Fileshandling\\file1.txt");
