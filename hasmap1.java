@@ -1,7 +1,7 @@
 import java.util.HashMap;
 public class hasmap1 {
     public static void main(String[] args) {
-            
+        
         HashMap<String, String> map = new HashMap<>();
         map.put("Md", "Arshad");
         map.put("Md", "Zaheer");
