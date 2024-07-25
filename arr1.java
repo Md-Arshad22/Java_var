@@ -12,4 +12,4 @@ public class arr1 {
       System.out.printf("%-10s\t%d\n", names.get(i), quantities[i]);
     }
   }
-
+}
